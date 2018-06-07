@@ -1,0 +1,120 @@
+body{
+	font-family: sans-serif;
+	
+}
+
+h2{
+	color: red;
+}
+
+
+li{	
+
+	display: inline;
+	padding-right: 10px;
+	color: white;
+	font-size: 20px;
+
+	
+}
+
+header {
+	font-size: 20px;
+	color: black;
+}
+
+
+h1{
+	font-size: 20px;
+	color: black;
+	margin-top: 20px;
+	margin-left: 16px;
+}
+p {
+	font-family: 'Indie Flower', cursive;
+}
+
+
+.content{
+	float:left;
+
+
+}
+
+aside {
+	margin-top: 30px;
+	float: left;
+	margin-right: 200px;
+}
+ul a{
+
+	text-decoration: none;
+	
+
+
+}
+
+ul a:hover{
+	color:green;
+}
+
+
+
+footer{
+	
+	background-color: grey;
+	width:100%;
+	
+}
+
+table, th, td{
+	width:100%;
+	height:100px;
+	border:5px solid
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+#imagepos{
+	width: 100%;
+}
+
+.football{
+
+	margin-top: 2px;
+}
